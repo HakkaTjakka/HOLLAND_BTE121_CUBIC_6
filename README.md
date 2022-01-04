@@ -21,3 +21,4 @@ and
 
 https://github.com/HakkaTjakka/HOLLAND_BTE121_CUBIC_5
 
+![clipboard_small](https://github.com/HakkaTjakka/HOLLAND_BTE121_CUBIC_6/blob/main/WORLD/region6.png)
